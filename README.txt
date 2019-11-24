@@ -1,3 +1,6 @@
+Followed through from 
+https://github.com/jrupac/minecraft-opengl
+
 INTRODUCTION
 ===========
 
